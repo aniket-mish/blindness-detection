@@ -1,1 +1,1 @@
-# blindness-prediction-cv
+## Diagnose Diabetic Retinopathy Using Fundus Photographs
